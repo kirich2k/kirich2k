@@ -1,8 +1,6 @@
 <h1 align="center">Привет 👋, я Кирилл</h1>
 <h3 align="center">Я frontend разработчик</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirich2k" alt="kirich2k" /></a> </p>
-
 - 🔭 Сейчас я работаю над [календарём](https://github.com/kirich2k/calendar)
 
 - 🌱 Сейчас я изучаю **RTK Query, Node.js**
