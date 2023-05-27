@@ -3,9 +3,9 @@
 
 - 👨‍💻 Сейчас я работаю над [календарём](https://github.com/kirich2k/calendar)
 
-- 🌱 Сейчас я изучаю **RTK Query, Node.js**
+- 👨‍🎓 Сейчас я изучаю **RTK Query, Node.js**
 
-- 👨‍💻 Все мои проекты доступны тут [https://github.com/kirich2k?tab=repositories](https://github.com/kirich2k?tab=repositories)
+- 📂 Все мои проекты доступны тут [https://github.com/kirich2k?tab=repositories](https://github.com/kirich2k?tab=repositories)
 
 - 📫 Со мной можно связаться **https://t.me/kirich_982**
 
