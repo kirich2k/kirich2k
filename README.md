@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Кирилл</h1>
 <h3 align="center">Я frontend разработчик</h3>
 
-- <img href="[https://icons8.ru/icon/ARHji8Y3T752/разработчик](https://www.svgrepo.com/show/295412/development-web-development.svg)"></img>Сейчас я работаю над [календарём](https://github.com/kirich2k/calendar)
+- 👨‍💻 Сейчас я работаю над [календарём](https://github.com/kirich2k/calendar)
 
 - 🌱 Сейчас я изучаю **RTK Query, Node.js**
 
