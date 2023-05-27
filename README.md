@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Кирилл</h1>
+<h1 align="center">👋 Привет, я Кирилл</h1>
 <h3 align="center">Я frontend разработчик</h3>
 
 - 👨‍💻 Сейчас я работаю над [календарём](https://github.com/kirich2k/calendar)
